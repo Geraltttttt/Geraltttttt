@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geraltttttt
 - 👀 I’m interested in GAMING
-- 🌱 I’m currently learning Java & Unity
+- 🌱 I’m currently learning C++ & ThreeJS
 - 💞️ I’m looking to collaborate on Game developing
 - 📫 How to reach me ...
 
